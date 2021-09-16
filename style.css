@@ -72,17 +72,10 @@ body {
 }
 
 .carousel-size {
-  height: 300px;
-  width: 200px;
+  height: 512px;
+  width: 341px;
 }
 
-.carousel-item {
-  justify-content: center;
-}
-
-.carousel-inner > .item > img {
-  margin: 0 auto;
-}
 
 .black-background {
   background-color: black;
