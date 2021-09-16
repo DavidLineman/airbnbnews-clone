@@ -1,0 +1,227 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+/* Navbar Styling */
+
+.navbar {
+  padding: 30px;
+  background-color: white;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 10px;
+}
+
+#logo {
+  color: red;
+  font-size: large;
+}
+
+/* Main content */
+
+.main-content {
+  padding-top: 60px;
+}
+
+
+.learn-more {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: red;
+  box-shadow: gray;
+  margin-top: 20px;
+  font-size: 15px;
+}
+
+/* Second section */
+
+.second-section {
+  margin-top: 80px;
+  margin-bottom: 20px;
+}
+
+.latest-news {
+  font-size: 14px;
+  line-height: 10%;
+  text-decoration: none;
+  padding-left: 10px;
+  color: black;
+}
+
+.news-items li {
+  list-style-type: none;
+}
+
+.right {
+  border-left: 1px solid #ddd;
+  padding-left: 30px;
+}
+
+#social-icons li {
+  list-style-type: none;
+  display: inline;
+  font-size: 25px;
+  padding-right: 10px;
+}
+
+.future-travel {
+  margin: 40px 0 40px 0;
+  align-items: flex-start;
+}
+
+.carousel-size {
+  height: 300px;
+  width: 200px;
+}
+
+.carousel-item {
+  justify-content: center;
+}
+
+.carousel-inner > .item > img {
+  margin: 0 auto;
+}
+
+.black-background {
+  background-color: black;
+  background-size: cover;
+  height: 300px;
+  margin-left: -100px;
+  margin-right: -100px;
+}
+
+/* Categories */
+
+.categories-header {
+  margin: 30px 0 30px 0;
+  
+}
+
+.list-item {
+  padding: 15px;
+  margin-right: 10px;
+  border: 1px solid #ddd;
+  border-radius: 28px;
+  text-align: center;
+}
+
+.list-item:hover {
+  border: 1px solid black;
+}
+
+#item {
+  text-decoration: none;
+  color: black;
+}
+
+.first-set-articles {
+  margin-top: 50px;
+}
+
+.article-paragraph {
+  color: black;
+}
+
+.article-paragraph:hover {
+  color: black;
+}
+
+.more-button {
+  padding: 12px;
+  margin-top: 30px;
+  width: 100px;
+  border-radius: 9px;
+  background-color: white;
+}
+
+.more-button:hover {
+  background-color: #ddd;
+}
+
+.subscribe-section {
+  margin: 50px 0 50px 0;
+}
+
+.subscribe-photo {
+  margin-left: -15px;
+}
+
+.carousel {
+  width:512px;
+  height:341px;
+}
+
+.dark {
+  background-color: black;
+}
+
+
+
+.sign-up {
+  margin-top: 100px;
+  text-align: center;
+  color: white;
+}
+
+.subscribe-button {
+  align-items: center;
+  padding: 10px;
+  border-radius: 7px;
+  color: white;
+  background-color: red;
+  border: none;
+}
+
+/* Footer */
+
+.footer-list {
+  font-size: 14px;
+  color: black;
+  list-style-type: none;
+  margin-top: 20px;
+}
+
+.footer-list a {
+  color: #222222;
+}
+
+.sub-footer {
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+.disclaimer-para {
+  margin-top: 20px;
+  font-size: 15px;
+}
+
+#sub-footer-title {
+  font-size: 15px;
+  color: #222222;
+  font-weight: bold;
+}
+
+.bottom-line {
+  margin-left: 25px;
+
+}
+
+.terms li {
+  display: inline;
+  padding-right: 10px;
+}
+ 
+.terms {
+  display: inline;
+  padding-right: 10px;
+  align-items:initial;
+}
+
+.sub-sub-footer {
+  align-items: center;
+}
+
+
+
