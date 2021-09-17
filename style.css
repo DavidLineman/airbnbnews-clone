@@ -2,6 +2,10 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+.img-fluid {
+  width: 100%;
+}
+
 
 
 /* Navbar Styling */
