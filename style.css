@@ -104,6 +104,21 @@ body {
   text-align: center;
 }
 
+
+@media (min-width: 960px) {
+  .list-item {
+    padding: 15px;
+    margin-right: 10px;
+    border: 1px solid #ddd;
+    border-radius: 28px;
+    text-align: center;
+  }
+  
+}
+
+
+
+
 .list-item:hover {
   border: 1px solid black;
 }
